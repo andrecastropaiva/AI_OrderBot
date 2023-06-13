@@ -1,4 +1,4 @@
-# AIOrderBot: Automated Ordering Service
+# AI OrderBot: Automated Ordering Service
 
 OrderBot is an automated service designed to collect orders for a Burger restaurant. It is built using the OpenAI GPT-3.5 language model and provides a conversational interface to interact with customers. This repository contains the code for OrderBot and allows you to set up your own automated ordering system.
 
